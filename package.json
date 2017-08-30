@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "fixed-data-table": "^0.6.4",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.12"
+    "react-scripts": "1.0.12",
+    "react-select": "^1.0.0-rc.5",
+    "superagent": "^3.6.0",
+    "superagent-cache": "^2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
